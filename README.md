@@ -22,8 +22,8 @@ Figma, Adobe XD, Photoshop, Illustrator
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lesniakr&theme=radical&card_width=500")
+[![GitHub Streak](https://streak-stats.demolab.com?user=lesniakr&theme=radical&card_width=500")](#)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesniakr&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github&custom_title=GitHub%20Stats%20(public%20repositories)&card_width=500)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesniakr&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github&custom_title=GitHub%20Stats%20(public%20repositories)&card_width=500)](#)
 
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesniakr&theme=radical&layout=compact&custom_title=Most%20Used%20Languages%20(public%20repositories)&card_width=500)
+[![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesniakr&theme=radical&layout=compact&custom_title=Most%20Used%20Languages%20(public%20repositories)&card_width=500)](#)
